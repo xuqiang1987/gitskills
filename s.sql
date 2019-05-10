@@ -1,3 +1,4 @@
+-- this is oracle
 DECLARE
   V_SQL VARCHAR2(2000);
   V_I   INT := 1;
