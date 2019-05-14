@@ -5,4 +5,5 @@ Creating a new branch is quick and simple
 bug issue101 is archive
 git dev branch test
 Git xuqiang modify
+GIT CLONE1 is modify
 now bug test 20190510
